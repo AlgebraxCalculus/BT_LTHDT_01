@@ -9,3 +9,9 @@ public class CalculateSalary {
         System.out.println("Name: " + p2.getName());
     }
 }
+    /* Output:
+    Salary: 195000
+    Name: Nguyen Van A
+    Salary: 14976000
+    Name: Tran Van B
+    */
