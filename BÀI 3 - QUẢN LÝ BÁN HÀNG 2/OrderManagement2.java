@@ -29,3 +29,12 @@ public class OrderManagement2 {
         }
     }
 }
+/* Output:
+Hoa Don ID: 1001
+Khach Hang: Nguyen Van A
+Ngay Ban: 2024-11-12
+Tong Tien: 560000.0
+Mat Hang Da Mua:
+Mat Hang: X, So Luong: 2, Gia: 100000.0
+Mat Hang: Y, So Luong: 3, Gia: 120000.0
+*/
