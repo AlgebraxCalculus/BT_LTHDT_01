@@ -35,3 +35,18 @@ public class OrderManagement {
         }
     }
 }
+
+/* Output:
+Total orders: 2
+Order Info:
+Customer: Name: Nguyen Van A, Code: KH01, Address: Ha Noi
+Total: USD
+Order Lines:
+ - Value: USD
+ - Value: USD
+Order Info:
+Customer: Name: Tran Van B, Code: KH02, Address: Hai Phong
+Total: USD
+Order Lines:
+ - Value: USD
+*/
